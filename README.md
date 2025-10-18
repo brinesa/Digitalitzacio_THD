@@ -1,0 +1,2 @@
+# Digitalitzacio_THD
+Digitalització_Tecnologies Habilitadores Digitals
